@@ -1,6 +1,8 @@
 # First_Tableau_Projects
 
 Project- IPL ANALYSIS
+
+
 Project Objective: In order to gain different insights, this project will analyse Indian Premier League (IPL) data from 2008 until 2020. Principal goals are to: 
 1. List the winners of each season's IPL championship. 
 2. Select each season's Orange Cap (most run scorer) and Purple Cap (highest wicket-taker) winners. 
